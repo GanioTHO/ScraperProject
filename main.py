@@ -4,6 +4,7 @@ import base64
 from datetime import datetime, timezone
 
 # Boring tokens and stuff
+#TODO 2: Check if auth is made correctly and program works without global variables
 client_id = os.environ.get("PROD_EBAY_APP_ID")
 client_secret = os.environ.get("PROD_EBAY_CERT_ID")
 credentials = base64.b64encode(f"{client_id}:{client_secret}".encode()).decode()

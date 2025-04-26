@@ -1,1 +1,1 @@
-lolololo
+This is a project of an Ebay web scraper using Ebay API. Resigned from UI because tkinter sucks
