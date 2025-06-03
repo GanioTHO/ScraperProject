@@ -68,8 +68,3 @@ python main.py
 - JSON output structure is optimized for further processing or visualizations.
 
 ---
-
-## Author's Comment
-
-> IT WORKS LIKE A F***ING CHARM I LOVE PYTHON 🚀🔥
-
